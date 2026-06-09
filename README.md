@@ -4,4 +4,4 @@ Berfungsi untuk memberikan tempat membagi agenda yang bisa digunakan oleh para p
 
 Menggunakan Laravel Filament dan beberapa plugin. 
 
-Dikembangkan sekalian untuk belajar Laravel Filament.
+Dikembangkan sekalian untuk belajar Laravel Filament dan OpenCode menggunakan paradigma SDLC.

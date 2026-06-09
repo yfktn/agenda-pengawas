@@ -130,6 +130,7 @@ tasks:
       - Admin dapat melihat daftar penugasan yang sudah dibuat
       - Admin dapat mengubah dan menghapus penugasan
       - Relasi many-to-many tersimpan dengan benar
+      - Satu sekolah tidak dapat dipilih oleh beberapa pengawas
     status: pending
 
   - id: T-009
