@@ -114,7 +114,7 @@ tasks:
       - Field sekolah_id muncul secara kondisional hanya untuk role OperatorSekolah
       - Admin dapat mengubah data user dan reset password
       - Admin dapat menghapus user
-    status: pending
+    status: completed
 
   - id: T-008
     title: CRUD Penugasan Pengawas ke Sekolah (Admin Panel)
